@@ -16,8 +16,8 @@
 
 <td valign="top" width="50%">
 
-<div align="middel">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 75%" />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
 
 
