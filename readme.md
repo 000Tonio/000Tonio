@@ -10,18 +10,18 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
 
 
 
-</td><td valign="top" width="50%">
+<td valign="top" width="50%">
 
 <div align="right">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
 </div>  
 
 
-//</td></tr></table>  
+</table>  
 
 <br/>  
 
