@@ -17,7 +17,7 @@
 <td valign="top" width="50%">
 
 <div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 75%" />
 </div>  
 
 
