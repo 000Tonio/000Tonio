@@ -53,7 +53,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=000Tonio&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -61,7 +61,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000Tonio&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
