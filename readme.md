@@ -10,7 +10,7 @@
 
 
 ## Rapidfire  
-<table>
+
 
 
 
@@ -21,7 +21,7 @@
 </div>  
 
 
-</table>  
+
 
 <br/>  
 
